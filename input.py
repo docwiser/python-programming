@@ -1,0 +1,5 @@
+print("Welcome to your dashboard!")
+firstname = input("Enter your first name:")
+lastname = input("Enter your last name:")
+print("Welcome " + firstname + " " + lastname + ". this is your account center")
+print("Goodbye")
